@@ -1,0 +1,23 @@
+{
+  "name": "parasaur",
+  "displayName": "Parasaur",
+  "description": "Parasaur Colour Theme",
+  "version": "1.0.0",
+  "publisher": "webroo",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Parasaur",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Parasaur-color-theme.json"
+      }
+    ]
+  }
+}
